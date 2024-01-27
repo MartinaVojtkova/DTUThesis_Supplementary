@@ -1,6 +1,6 @@
 # Supplementary files for Genome-wide analysis for the quantification of gene flux in _E.coli_
 
-`Gene_results_summary.csv`contains data for all 6434 selected for Gene Flux analysis.
+`Gene_results_summary.csv`contains results for all 6434 selected for Gene Flux analysis.
 The following columns are included:  
 - **Gene:** Gene cluster name as provided by Roary
 - **Occurrence**: Number of genomes where the gene was present
