@@ -3,6 +3,7 @@
 `Gene_results_summary.csv`contains results for all 6434 selected for Gene Flux analysis.
 The following columns are included:  
 - **Gene:** Gene cluster name as provided by Roary
+- **UniprotKB_ID**: Corresponding UniProtID
 - **Occurrence**: Number of genomes where the gene was present
 - **Kmer_distance_median:** Per-gene median value of the flanking region k-mer distance matrix. (K-mer Hamming distance used as measure)
 - **ANI_median:** Per-gene median value of the flanking region average nucleotide identity matrix
